@@ -1,0 +1,4 @@
+package html
+
+interface HtmlUtils {
+}
